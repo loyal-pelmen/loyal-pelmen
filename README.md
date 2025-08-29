@@ -3,7 +3,5 @@
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=loyal-pelmen&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=loyal-pelmen&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=loyal-pelmen&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=loyal-pelmen&theme=radical)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=loyal-pelmen&theme=radical&utcOffset=+3)
